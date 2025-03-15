@@ -1,0 +1,12 @@
+{
+    "ApiUrls" : {
+        "Server1": "https://api.footyquest.com",
+        "Server2": "http://93.12.82.103:8000"
+    },
+    "ApiActiveUrl" : "Local",
+    "AppUrls" : {
+        "Server1": "ws://app.footyquest.com",
+        "Server2": "ws://93.12.82.103:8080"
+    },
+    "AppActiveUrl" : "Local"
+}
